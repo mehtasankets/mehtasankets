@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtasankets&label=Profile%20views&color=0e75b6&style=flat" alt="mehtasankets" /> </p>
-<br/>
-Hi, I'm [Sanket Mehta](http://mehtasanket.in/), a passionate full-stack developer working with [Arcesium](https://www.arcesium.com/) as Principal Engineer. My passion for software development comes from my love to automate mundate and repetative tasks. In the recent past, I've worked on a [telegram reminder bot](https://github.com/mehtasankets/reminder-bot), [personal blog site](http://mehtasanket.in/), [monthly expenditure tracker](https://github.com/mehtasankets/mmflow) and a crypto portfolio tracker.
+<img src="https://komarev.com/ghpvc/?username=mehtasankets&label=Profile%20views&color=0e75b6&style=flat" alt="mehtasankets" />
 
+Hi, I'm [Sanket Mehta](http://mehtasanket.in/), a passionate full-stack developer working with [Arcesium](https://www.arcesium.com/) as Principal Engineer. My passion for software development comes from my love to automate mundate and repetative tasks. In the recent past, I've worked on a [telegram reminder bot](https://github.com/mehtasankets/reminder-bot), [personal blog site](http://mehtasanket.in/), [monthly expenditure tracker](https://github.com/mehtasankets/mmflow) and a crypto portfolio tracker.
+  
 ## Github overview
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtasankets&show_icons=true&locale=en&layout=compact" alt="mehtasankets" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mehtasankets&show_icons=true&locale=en" alt="mehtasankets" /></p>
